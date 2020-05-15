@@ -1,6 +1,6 @@
 # my-collection 简介
 
-以下是我学习生活中收集的网站、工具等，对其添加了简单的描述，各位可以按需使用
+以下是我学习生活中收集的网站、工具等，对它们添加了简单的描述，各位可以按需使用
 
 # 工作效率
 
@@ -28,7 +28,7 @@
 
 [服务 NET牛人](https://ss.netnr.com/)：包含各种工具的网站
 
-# 学习
+# 学习网站
 
 [Linux 命令大全](https://man.linuxde.net/)：Linux 常用命令行实例详解、搜索
 
@@ -36,17 +36,9 @@
 
 [廖雪峰的官方网站](https://www.liaoxuefeng.com/)：Java、Python等技术
 
-# 开源项目
+[YouZack](https://www.youzack.com/)：英语听力逐句精听，包含各种类型的听力材料
 
-[OnJava8](https://github.com/LingCoder/OnJava8)：《On Java 8》中文版，又名《Java编程思想》 第5版
-
-[JavaGuide](https://github.com/Snailclimb/JavaGuide)：【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-
-[JavaGuide面试突击版](https://snailclimb.gitee.io/javaguide-interview/)：JavaGuide 的浓缩版本
-
-[document-style-guide](https://github.com/ruanyf/document-style-guide)：中文技术文档的写作规范
-
-# 博客
+# 优质博客
 
 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 
@@ -63,6 +55,20 @@
 [程序员DD](http://blog.didispace.com/)
 
 [方志朋的专栏](https://www.fangzhipeng.com/)
+
+# 开源项目
+
+[OnJava8](https://github.com/LingCoder/OnJava8)：《On Java 8》中文版，又名《Java编程思想》 第5版
+
+[JavaGuide](https://github.com/Snailclimb/JavaGuide)：【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+
+[JavaGuide面试突击版](https://snailclimb.gitee.io/javaguide-interview/)：JavaGuide 的浓缩版本
+
+[CS-Notes](https://github.com/CyC2018/CS-Notes)：技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+
+[jstraining](https://github.com/ruanyf/jstraining)：帮助学习者掌握 JavaScript 全栈开发的基本知识，承担简单 Web 应用的前后端开发。
+
+[document-style-guide](https://github.com/ruanyf/document-style-guide)：中文技术文档的写作规范
 
 # Chrome 插件
 
@@ -82,7 +88,7 @@
 
 [超星慕课小工具](https://chrome.google.com/webstore/detail/超星慕课小工具/kkicgcijebblepmephnfganiiochecfl?hl=zh-CN)：超星(学习通)/智慧树(知到)/中国大学mooc 刷课工具
 
-# 软件
+# 实用软件
 
 [火绒](https://www.huorong.cn/)：一款轻巧、基本无打扰的安全软件
 
@@ -92,6 +98,6 @@
 
 [Typora](https://typora.io/)：Markdown 编辑器，所见即所得
 
-# 文章
+# 推荐文章
 
 [阿里云的这群疯子](https://www.huxiu.com/article/267100.html)
