@@ -1,8 +1,8 @@
 # my-collection 简介
 
-以下是我学习生活中收集的网站、工具等，对它们添加了简单的描述，各位可以按需使用
+以下是我学习生活中收集的网站、工具等，我对它们添加了简单的描述，各位可以按需使用，持续更新中......
 
-# 工作效率
+# 实用网站
 
 [Iconfont](https://www.iconfont.cn/home/index)：阿里巴巴矢量图标库
 
@@ -38,6 +38,8 @@
 
 [YouZack](https://www.youzack.com/)：英语听力逐句精听，包含各种类型的听力材料
 
+[福利单词](https://fox.ftqq.com/)：在线背单词网站，页面简洁
+
 # 优质博客
 
 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
@@ -56,6 +58,8 @@
 
 [方志朋的专栏](https://www.fangzhipeng.com/)
 
+[方糖气球🎈](https://ftqq.com/)
+
 # 开源项目
 
 [OnJava8](https://github.com/LingCoder/OnJava8)：《On Java 8》中文版，又名《Java编程思想》 第5版
@@ -68,9 +72,21 @@
 
 [jstraining](https://github.com/ruanyf/jstraining)：帮助学习者掌握 JavaScript 全栈开发的基本知识，承担简单 Web 应用的前后端开发。
 
+[chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)：中文文案排版指北
+
 [document-style-guide](https://github.com/ruanyf/document-style-guide)：中文技术文档的写作规范
 
+[ResumeSample](https://github.com/geekcompany/ResumeSample)：程序员简历模板系列，PHP、iOS、Android、Java等等
+
+[Linux-Tutorial](https://github.com/judasn/Linux-Tutorial)：带动更多的人进入 Linux 世界，特别是做 Java 开发的人
+
+[advanced-java](https://github.com/doocs/advanced-java)：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看
+
+[programmer-advancement](https://github.com/Snailclimb/programmer-advancement)：程序员应该有的一些好习惯+面试必知事项！
+
 # Chrome 插件
+
+[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN)：相当于一个插件市场，最强插件，没有之一
 
 [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=zh-CN)：阅读 GitHub 仓库时显示文件目录结构，方便跳转
 
@@ -97,6 +113,8 @@
 [护眼宝](http://huyanbao.com/portal.php)：护眼、防蓝光软件
 
 [Typora](https://typora.io/)：Markdown 编辑器，所见即所得
+
+[Snipaste](https://zh.snipaste.com/download.html)：轻量、好用的截图工具
 
 # 推荐文章
 
