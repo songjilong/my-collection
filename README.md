@@ -2,11 +2,15 @@
 
 以下是我学习生活中收集的网站、工具等，我对它们添加了简单的描述，各位可以按需使用，持续更新中......
 
+GitHub 地址：[https://github.com/songjilong/my-collection](https://github.com/songjilong/my-collection)
+
 # 实用网站
 
 [Iconfont](https://www.iconfont.cn/home/index)：阿里巴巴矢量图标库
 
 [Process On](https://www.processon.com/)：免费在线作图网站，支持团队实时协作
+
+[draw.io](http://draw.io/)：作图工具，功能强大
 
 [幕布](https://mubu.com/)：大纲笔记与思维导图一键转换
 
@@ -27,6 +31,8 @@
 [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)：Web网站纹理背景图片
 
 [服务 NET牛人](https://ss.netnr.com/)：包含各种工具的网站
+
+[Text-Typesetting](https://cyc2018.github.io/Text-Typesetting/)：中英混排文档在线排版工具
 
 # 学习网站
 
@@ -69,6 +75,8 @@
 [JavaGuide面试突击版](https://snailclimb.gitee.io/javaguide-interview/)：JavaGuide 的浓缩版本
 
 [CS-Notes](https://github.com/CyC2018/CS-Notes)：技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+
+[Java-Tutorial](https://github.com/h2pl/Java-Tutorial)：涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章
 
 [jstraining](https://github.com/ruanyf/jstraining)：帮助学习者掌握 JavaScript 全栈开发的基本知识，承担简单 Web 应用的前后端开发。
 
@@ -119,3 +127,13 @@
 # 推荐文章
 
 [阿里云的这群疯子](https://www.huxiu.com/article/267100.html)
+
+# 几句鸡汤
+
+- 种一棵树最好的时间是十年前，其次是现在
+
+- 纸上得来终觉浅，绝知此事要躬行
+- 无他，但手熟尔
+- 语言少了，思想就出来了
+- say say easy, do do hard
+- talk is cheap, show me the code
