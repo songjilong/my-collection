@@ -82,6 +82,10 @@ GitHub 地址：[https://github.com/songjilong/my-collection](https://github.com
 
 [福利单词](https://fox.ftqq.com/)：在线背单词网站，页面简洁
 
+[Learn Git Branching](https://oschina.gitee.io/learn-git-branching/)：在线学习、练习 Git 命令，就像打游戏一样
+
+[Git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)：以大图的方式介绍 Git 命令
+
 # 开源项目
 
 [OnJava8](https://github.com/LingCoder/OnJava8)：《On Java 8》中文版，又名《Java编程思想》 第5版
@@ -163,6 +167,8 @@ GitHub 地址：[https://github.com/songjilong/my-collection](https://github.com
 [方志朋的专栏](https://www.fangzhipeng.com/)
 
 [方糖气球🎈](https://ftqq.com/)
+
+[我没有三颗心脏的博客](https://www.wmyskxz.com/)
 
 # 推荐文章
 
