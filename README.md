@@ -58,6 +58,8 @@ GitHub 地址：[https://github.com/songjilong/my-collection](https://github.com
 
 [removebg](https://www.remove.bg/zh)：图片背景消除
 
+[Bigjpg](https://bigjpg.com/)：AI人工智能图片放大
+
 ---
 
 [小码短链接](https://xiaomark.com/)：长链接转短链接工具，还可以查看访问人数、访问次数
@@ -116,6 +118,101 @@ GitHub 地址：[https://github.com/songjilong/my-collection](https://github.com
 
 [programmer-advancement](https://github.com/Snailclimb/programmer-advancement)：程序员应该有的一些好习惯+面试必知事项！
 
+# 优质课程
+
+*以下视频均来源于 B 站，大部分都是我看过觉得不错的，可能有些视频的技术版本有些过时了，但质量基本都很不错，这里向大家特别推荐尚硅谷的视频，下面的视频也有很多都是他家的，真的是一家很优秀的机构，给我的帮助很大。*
+
+数据结构、算法：https://www.bilibili.com/video/BV1E4411H73v
+
+计算机网络：https://www.bilibili.com/video/BV19E411D78Q
+
+计算机操作系统：https://www.bilibili.com/video/av50757124
+
+计算机组成原理：https://www.bilibili.com/video/BV1ix41137Eu
+
+设计模式：https://www.bilibili.com/video/BV1G4411c7N4
+
+Java 基础：https://www.bilibili.com/video/BV1Kb411W75N
+
+JUC：https://www.bilibili.com/video/BV1B7411L7tE
+
+NIO：https://www.bilibili.com/video/BV14W411u7ro
+
+JVM：https://www.bilibili.com/video/BV1PJ411n7xZ
+
+Java Web：https://www.bilibili.com/video/BV1XJ411X7Ud
+
+MySQL 基础：https://www.bilibili.com/video/BV1xW411u7ax
+
+MySQL 高级：https://www.bilibili.com/video/BV1KW411u7vy
+
+Maven：https://www.bilibili.com/video/BV1TW411g7hP
+
+Git：https://www.bilibili.com/video/BV1pW411A7a5
+
+Spring：https://www.bilibili.com/video/BV1Sb411s7vP
+
+Spring 注解与原理：https://www.bilibili.com/video/BV1gW411W7wy
+
+Spring MVC：https://www.bilibili.com/video/BV1Sb411s7qa
+
+Mybatis：https://www.bilibili.com/video/BV1Db411s7F5
+
+SSM 整合：https://www.bilibili.com/video/BV1rt41127Cp
+
+Spring Boot：https://www.bilibili.com/video/BV1Et411Y7tQ
+
+Spring Cloud：https://www.bilibili.com/video/BV18E411x7eT
+
+Linux：https://www.bilibili.com/video/BV1dW411M7xL
+
+Redis：https://www.bilibili.com/video/BV1J4411x7U1
+
+Docker：https://www.bilibili.com/video/BV1Vs411E7AR
+
+Nginx：https://www.bilibili.com/video/BV1zJ411w7SV
+
+项目（B 站上好的项目不是很多，可以去其他地方看看）：
+
+- 谷粒商城（Spring Boot + Spring Cloud）：https://www.bilibili.com/video/BV1np4y1C7Yf
+
+面试知识点：
+
+- https://www.bilibili.com/video/BV1xt411S7xy
+- https://www.bilibili.com/video/BV1zb411M7NQ
+
+---
+
+推荐几个不错的UP 主（只列举 IT 相关的）
+
+- CodeSheep：https://space.bilibili.com/384068749
+- 尚硅谷官方：https://space.bilibili.com/302417610
+
+- 三太子敖丙：https://space.bilibili.com/130763764
+- 遇见狂神说：https://space.bilibili.com/95256449
+- 正月点灯笼：https://space.bilibili.com/24014925
+- Java面试官口口老师：https://space.bilibili.com/581510334
+
+# 优质博客
+
+[阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+
+[如果天空不死](https://www.cnblogs.com/skywang12345/)
+
+[小敏纸](https://blog.csdn.net/lanxuezaipiao)
+
+[西格玛的博客](http://lrwinx.github.io/)
+
+[酷 壳 – CoolShell](https://coolshell.cn/)
+
+[江南一点雨](http://www.javaboy.org/)
+
+[程序员DD](http://blog.didispace.com/)
+
+[方志朋的专栏](https://www.fangzhipeng.com/)
+
+[我没有三颗心脏的博客](https://www.wmyskxz.com/)
+
 # Chrome 插件
 
 [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN)：相当于一个插件市场，最强插件，没有之一
@@ -147,28 +244,6 @@ GitHub 地址：[https://github.com/songjilong/my-collection](https://github.com
 [Typora](https://typora.io/)：Markdown 编辑器，所见即所得
 
 [Snipaste](https://zh.snipaste.com/download.html)：轻量、好用的截图工具
-
-# 优质博客
-
-[阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
-
-[如果天空不死](https://www.cnblogs.com/skywang12345/)
-
-[小敏纸](https://blog.csdn.net/lanxuezaipiao)
-
-[西格玛的博客](http://lrwinx.github.io/)
-
-[酷 壳 – CoolShell](https://coolshell.cn/)
-
-[江南一点雨](http://www.javaboy.org/)
-
-[程序员DD](http://blog.didispace.com/)
-
-[方志朋的专栏](https://www.fangzhipeng.com/)
-
-[方糖气球🎈](https://ftqq.com/)
-
-[我没有三颗心脏的博客](https://www.wmyskxz.com/)
 
 # 推荐文章
 
