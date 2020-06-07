@@ -108,6 +108,8 @@ GitHub 地址：[https://github.com/songjilong/my-collection](https://github.com
 
 [advanced-java](https://github.com/doocs/advanced-java)：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看
 
+Python-100-Days
+
 ---
 
 [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)：中文文案排版指北
