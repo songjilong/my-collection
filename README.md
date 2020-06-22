@@ -34,6 +34,8 @@ GitHub 地址：[https://github.com/songjilong/my-collection](https://github.com
 
 [smallpdf](https://smallpdf.com/cn)：功能一应俱全、简单好用的线上 PDF 工具
 
+---
+
 [冷熊简历](http://cv.ftqq.com/)：好看的简历制作网站
 
 [超级简历](https://www.wondercv.com/)：简历模板
@@ -110,7 +112,7 @@ GitHub 地址：[https://github.com/songjilong/my-collection](https://github.com
 
 [advanced-java](https://github.com/doocs/advanced-java)：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看
 
-Python-100-Days
+[Python-100-Days](https://github.com/jackfrued/Python-100-Days)：主要是 Python 教程，还有数据库、前端等
 
 ---
 
@@ -126,7 +128,7 @@ Python-100-Days
 
 *以下视频均来源于 B 站，大部分都是我看过觉得不错的，可能有些视频的技术版本有些老了，但质量基本都很不错，这里向大家特别推荐尚硅谷的视频，下面的视频也有很多都是他家的，真的是一家很优秀的机构，给我的帮助很大。*
 
-数据结构、算法：https://www.bilibili.com/video/BV1E4411H73v
+尚硅谷 - 数据结构、算法：https://www.bilibili.com/video/BV1E4411H73v
 
 计算机网络：https://www.bilibili.com/video/BV19E411D78Q
 
@@ -134,57 +136,59 @@ Python-100-Days
 
 计算机组成原理：https://www.bilibili.com/video/BV1ix41137Eu
 
-设计模式：https://www.bilibili.com/video/BV1G4411c7N4
+尚硅谷 - 设计模式：https://www.bilibili.com/video/BV1G4411c7N4
 
-Java 基础：https://www.bilibili.com/video/BV1Kb411W75N
+尚硅谷 - Java 基础：https://www.bilibili.com/video/BV1Kb411W75N
 
-JUC：https://www.bilibili.com/video/BV1B7411L7tE
+尚硅谷 - JUC（p38~p72）：https://www.bilibili.com/video/BV1vE411D7KE
 
-NIO：https://www.bilibili.com/video/BV14W411u7ro
+尚硅谷 - NIO：https://www.bilibili.com/video/BV14W411u7ro
 
-JVM：https://www.bilibili.com/video/BV1PJ411n7xZ
+尚硅谷 - JVM：https://www.bilibili.com/video/BV1PJ411n7xZ
 
-Java Web：https://www.bilibili.com/video/BV1XJ411X7Ud
+尚硅谷 - Java Web：https://www.bilibili.com/video/BV1XJ411X7Ud
 
-MySQL 基础：https://www.bilibili.com/video/BV1xW411u7ax
+尚硅谷 - MySQL 基础：https://www.bilibili.com/video/BV1xW411u7ax
 
-MySQL 高级：https://www.bilibili.com/video/BV1UQ4y1P7Xr
+黑马 - MySQL 高级：https://www.bilibili.com/video/BV1UQ4y1P7Xr
 
-Maven：https://www.bilibili.com/video/BV1TW411g7hP
+尚硅谷 - Maven：https://www.bilibili.com/video/BV1TW411g7hP
 
-Git：https://www.bilibili.com/video/BV1pW411A7a5
+尚硅谷 - Git / GitHub：https://www.bilibili.com/video/BV1pW411A7a5
 
-Spring：https://www.bilibili.com/video/BV1Sb411s7vP
+黑马 - Spring：https://www.bilibili.com/video/BV1Sb411s7vP
 
-Spring 注解与原理：https://www.bilibili.com/video/BV1gW411W7wy
+尚硅谷 - 2020 最新Spring：https://www.bilibili.com/video/BV1Vf4y127N5
 
-Spring MVC：https://www.bilibili.com/video/BV1Sb411s7qa
+尚硅谷 - Spring 注解与原理：https://www.bilibili.com/video/BV1gW411W7wy
 
-Mybatis：https://www.bilibili.com/video/BV1Db411s7F5
+黑马 - Spring MVC：https://www.bilibili.com/video/BV1Sb411s7qa
 
-SSM 整合：https://www.bilibili.com/video/BV1rt41127Cp
+黑马 - Mybatis：https://www.bilibili.com/video/BV1Db411s7F5
 
-Spring Boot：https://www.bilibili.com/video/BV1Et411Y7tQ
+尚硅谷 - SSM 整合：https://www.bilibili.com/video/BV1rt41127Cp
 
-Spring Cloud：https://www.bilibili.com/video/BV18E411x7eT
+尚硅谷 - Spring Boot：https://www.bilibili.com/video/BV1Et411Y7tQ
 
-Linux：https://www.bilibili.com/video/BV1dW411M7xL
+尚硅谷 - Spring Cloud：https://www.bilibili.com/video/BV18E411x7eT
 
-Redis：https://www.bilibili.com/video/BV1J4411x7U1
+尚硅谷 - Linux：https://www.bilibili.com/video/BV1dW411M7xL
 
-Docker：https://www.bilibili.com/video/BV1Vs411E7AR
+尚硅谷 - Redis：https://www.bilibili.com/video/BV1J4411x7U1
 
-Nginx：https://www.bilibili.com/video/BV1zJ411w7SV
+尚硅谷 - Docker：https://www.bilibili.com/video/BV1Vs411E7AR
+
+尚硅谷 - Nginx：https://www.bilibili.com/video/BV1zJ411w7SV
 
 项目：
 
-- 谷粒商城（Spring Boot + Spring Cloud）：https://www.bilibili.com/video/BV1np4y1C7Yf
+- 尚硅谷 - 谷粒商城（Spring Boot + Spring Cloud）：https://www.bilibili.com/video/BV1np4y1C7Yf
 
 面试知识点：
 
-- 尚硅谷大厂面试题第一季：https://www.bilibili.com/video/BV1xt411S7xy
-- 尚硅谷大厂面试题第二季：https://www.bilibili.com/video/BV1zb411M7NQ
-- 2020 最新版面试题（博客）：https://thinkwon.blog.csdn.net/article/details/104390612
+- 尚硅谷 - 大厂面试题第一季：https://www.bilibili.com/video/BV1xt411S7xy
+- 尚硅谷 - 大厂面试题第二季：https://www.bilibili.com/video/BV1zb411M7NQ
+- CSDN - 2020 最新版面试题（博客）：https://thinkwon.blog.csdn.net/article/details/104390612
 
 ---
 
@@ -192,7 +196,7 @@ Nginx：https://www.bilibili.com/video/BV1zJ411w7SV
 
 - CodeSheep：https://space.bilibili.com/384068749
 - 尚硅谷官方：https://space.bilibili.com/302417610
-
+- 黎曼的猜想：https://space.bilibili.com/14163840
 - 三太子敖丙：https://space.bilibili.com/130763764
 - 遇见狂神说：https://space.bilibili.com/95256449
 - 正月点灯笼：https://space.bilibili.com/24014925
@@ -234,7 +238,7 @@ Nginx：https://www.bilibili.com/video/BV1zJ411w7SV
 
 [Tabbed Postman - REST Client](https://chrome.google.com/webstore/detail/tabbed-postman-rest-clien/coohjcphdfgbiolnekdpbcijmhambjff?hl=zh-CN)：网页版的 Postman，可共享 Cookie
 
-[Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=zh-CN)：鼠标放在图片上可以将其放大
+[Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=zh-CN)：鼠标移动到图片上可以将其放大，方便查看
 
 [超星慕课小工具](https://chrome.google.com/webstore/detail/超星慕课小工具/kkicgcijebblepmephnfganiiochecfl?hl=zh-CN)：超星(学习通)/智慧树(知到)/中国大学mooc 刷课工具
 
@@ -249,6 +253,8 @@ Nginx：https://www.bilibili.com/video/BV1zJ411w7SV
 [Typora](https://typora.io/)：Markdown 编辑器，所见即所得
 
 [Snipaste](https://zh.snipaste.com/download.html)：轻量、好用的截图工具
+
+[PotPlayer](https://pc.qq.com/detail/19/detail_519.html)：强大的视频播放器
 
 # 推荐文章
 
