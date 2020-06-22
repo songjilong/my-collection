@@ -36,6 +36,8 @@ GitHub 地址：[https://github.com/songjilong/my-collection](https://github.com
 
 [冷熊简历](http://cv.ftqq.com/)：好看的简历制作网站
 
+[超级简历](https://www.wondercv.com/)：简历模板
+
 ---
 
 [鸠摩搜索](https://www.jiumodiary.com/)：文档搜索引擎
@@ -122,7 +124,7 @@ Python-100-Days
 
 # 优质课程
 
-*以下视频均来源于 B 站，大部分都是我看过觉得不错的，可能有些视频的技术版本有些过时了，但质量基本都很不错，这里向大家特别推荐尚硅谷的视频，下面的视频也有很多都是他家的，真的是一家很优秀的机构，给我的帮助很大。*
+*以下视频均来源于 B 站，大部分都是我看过觉得不错的，可能有些视频的技术版本有些老了，但质量基本都很不错，这里向大家特别推荐尚硅谷的视频，下面的视频也有很多都是他家的，真的是一家很优秀的机构，给我的帮助很大。*
 
 数据结构、算法：https://www.bilibili.com/video/BV1E4411H73v
 
@@ -146,7 +148,7 @@ Java Web：https://www.bilibili.com/video/BV1XJ411X7Ud
 
 MySQL 基础：https://www.bilibili.com/video/BV1xW411u7ax
 
-MySQL 高级：https://www.bilibili.com/video/BV1KW411u7vy
+MySQL 高级：https://www.bilibili.com/video/BV1UQ4y1P7Xr
 
 Maven：https://www.bilibili.com/video/BV1TW411g7hP
 
@@ -174,14 +176,15 @@ Docker：https://www.bilibili.com/video/BV1Vs411E7AR
 
 Nginx：https://www.bilibili.com/video/BV1zJ411w7SV
 
-项目（B 站上好的项目不是很多，可以去其他地方看看）：
+项目：
 
 - 谷粒商城（Spring Boot + Spring Cloud）：https://www.bilibili.com/video/BV1np4y1C7Yf
 
 面试知识点：
 
-- https://www.bilibili.com/video/BV1xt411S7xy
-- https://www.bilibili.com/video/BV1zb411M7NQ
+- 尚硅谷大厂面试题第一季：https://www.bilibili.com/video/BV1xt411S7xy
+- 尚硅谷大厂面试题第二季：https://www.bilibili.com/video/BV1zb411M7NQ
+- 2020 最新版面试题（博客）：https://thinkwon.blog.csdn.net/article/details/104390612
 
 ---
 
