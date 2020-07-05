@@ -10,6 +10,8 @@ GitHub 地址：[https://github.com/songjilong/my-collection](https://github.com
 
 [freepik](https://www.freepik.com/popular-icons)：免费图标库
 
+[标准地图服务系统](http://bzdt.ch.mnr.gov.cn/index.html)：高清地图下载
+
 ---
 
 [Process On](https://www.processon.com/)：免费在线作图网站，支持团队实时协作
@@ -84,13 +86,15 @@ GitHub 地址：[https://github.com/songjilong/my-collection](https://github.com
 
 [廖雪峰的官方网站](https://www.liaoxuefeng.com/)：Java、Python等技术
 
-[YouZack](https://www.youzack.com/)：英语听力逐句精听，包含各种类型的听力材料
-
-[福利单词](https://fox.ftqq.com/)：在线背单词网站，页面简洁
-
 [Learn Git Branching](https://oschina.gitee.io/learn-git-branching/)：在线学习、练习 Git 命令，就像打游戏一样
 
 [Git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)：以大图的方式介绍 Git 命令
+
+---
+
+[YouZack](https://www.youzack.com/)：英语听力逐句精听，包含各种类型的听力材料
+
+[福利单词](https://fox.ftqq.com/)：在线背单词网站，页面简洁
 
 # 开源项目
 
@@ -126,7 +130,7 @@ GitHub 地址：[https://github.com/songjilong/my-collection](https://github.com
 
 # 优质课程
 
-*以下视频均来源于 B 站，大部分都是我看过觉得不错的，可能有些视频的技术版本有些老了，但质量基本都很不错，这里向大家特别推荐尚硅谷的视频，下面的视频也有很多都是他家的，真的是一家很优秀的机构，给我的帮助很大。*
+### 计算机基础
 
 尚硅谷 - 数据结构、算法：https://www.bilibili.com/video/BV1E4411H73v
 
@@ -136,7 +140,7 @@ GitHub 地址：[https://github.com/songjilong/my-collection](https://github.com
 
 计算机组成原理：https://www.bilibili.com/video/BV1ix41137Eu
 
-尚硅谷 - 设计模式：https://www.bilibili.com/video/BV1G4411c7N4
+### Java 基础
 
 尚硅谷 - Java 基础：https://www.bilibili.com/video/BV1Kb411W75N
 
@@ -144,17 +148,19 @@ GitHub 地址：[https://github.com/songjilong/my-collection](https://github.com
 
 尚硅谷 - NIO：https://www.bilibili.com/video/BV14W411u7ro
 
+尚硅谷 - Java 设计模式：https://www.bilibili.com/video/BV1G4411c7N4
+
 尚硅谷 - JVM：https://www.bilibili.com/video/BV1PJ411n7xZ
 
 尚硅谷 - Java Web：https://www.bilibili.com/video/BV1XJ411X7Ud
+
+### MySQL
 
 尚硅谷 - MySQL 基础：https://www.bilibili.com/video/BV1xW411u7ax
 
 黑马 - MySQL 高级：https://www.bilibili.com/video/BV1UQ4y1P7Xr
 
-尚硅谷 - Maven：https://www.bilibili.com/video/BV1TW411g7hP
-
-尚硅谷 - Git / GitHub：https://www.bilibili.com/video/BV1pW411A7a5
+### 流行框架
 
 黑马 - Spring：https://www.bilibili.com/video/BV1Sb411s7vP
 
@@ -172,27 +178,37 @@ GitHub 地址：[https://github.com/songjilong/my-collection](https://github.com
 
 尚硅谷 - Spring Cloud：https://www.bilibili.com/video/BV18E411x7eT
 
-尚硅谷 - Linux：https://www.bilibili.com/video/BV1dW411M7xL
+### 工具
 
-尚硅谷 - Redis：https://www.bilibili.com/video/BV1J4411x7U1
+尚硅谷 - Maven：https://www.bilibili.com/video/BV1TW411g7hP
+
+尚硅谷 - Git / GitHub：https://www.bilibili.com/video/BV1pW411A7a5
+
+尚硅谷 - Linux：https://www.bilibili.com/video/BV1dW411M7xL
 
 尚硅谷 - Docker：https://www.bilibili.com/video/BV1Vs411E7AR
 
+### 中间件
+
+尚硅谷 - Redis：https://www.bilibili.com/video/BV1J4411x7U1
+
 尚硅谷 - Nginx：https://www.bilibili.com/video/BV1zJ411w7SV
 
-项目：
+Shiro：https://www.bilibili.com/video/BV1uz4y197Zm
+
+### 实战
+
+- 4 小时学会 Spring Boot + Vue 前后端分离开发：https://www.bilibili.com/video/BV137411B7vB
 
 - 尚硅谷 - 谷粒商城（Spring Boot + Spring Cloud）：https://www.bilibili.com/video/BV1np4y1C7Yf
 
-面试知识点：
+### 面试
 
 - 尚硅谷 - 大厂面试题第一季：https://www.bilibili.com/video/BV1xt411S7xy
 - 尚硅谷 - 大厂面试题第二季：https://www.bilibili.com/video/BV1zb411M7NQ
 - CSDN - 2020 最新版面试题（博客）：https://thinkwon.blog.csdn.net/article/details/104390612
 
----
-
-推荐几个不错的UP 主（只列举 IT 相关的）
+## 推荐几个不错的 UP 主（只列举 IT 相关的）
 
 - CodeSheep：https://space.bilibili.com/384068749
 - 尚硅谷官方：https://space.bilibili.com/302417610
@@ -201,26 +217,27 @@ GitHub 地址：[https://github.com/songjilong/my-collection](https://github.com
 - 遇见狂神说：https://space.bilibili.com/95256449
 - 正月点灯笼：https://space.bilibili.com/24014925
 - Java面试官口口老师：https://space.bilibili.com/581510334
+- 编程不良人：https://space.bilibili.com/352224540
 
 # 优质博客
 
-[阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+阮一峰的网络日志：http://www.ruanyifeng.com/blog
 
-[如果天空不死](https://www.cnblogs.com/skywang12345/)
+如果天空不死：https://www.cnblogs.com/skywang12345
 
-[小敏纸](https://blog.csdn.net/lanxuezaipiao)
+小敏纸：https://blog.csdn.net/lanxuezaipiao
 
-[西格玛的博客](http://lrwinx.github.io/)
+西格玛的博客：http://lrwinx.github.io
 
-[酷 壳 – CoolShell](https://coolshell.cn/)
+酷 壳 – CoolShell：https://coolshell.cn
 
-[江南一点雨](http://www.javaboy.org/)
+江南一点雨：http://www.javaboy.org
 
-[程序员DD](http://blog.didispace.com/)
+程序员DD：http://blog.didispace.com
 
-[方志朋的专栏](https://www.fangzhipeng.com/)
+方志朋的专栏：https://www.fangzhipeng.com
 
-[我没有三颗心脏的博客](https://www.wmyskxz.com/)
+我没有三颗心脏的博客：https://www.wmyskxz.com
 
 # Chrome 插件
 
