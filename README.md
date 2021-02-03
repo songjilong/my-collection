@@ -1,12 +1,6 @@
-# my-collection 简介
-
-以下是我学习生活中收集的网站、工具等，我对它们添加了简单的描述，各位可以按需使用，持续更新中......
-
-GitHub 地址：[https://github.com/songjilong/my-collection](https://github.com/songjilong/my-collection)
-
 # 学习网站
 
-- [Bilibili](https://www.bilibili.com/)：众所周知，B 站是一个学习网站。里面的视频基本都是免费的
+- [Bilibili](https://www.bilibili.com/)：B 站里的视频基本都是免费的，但你得会筛选。
 
 - [极客时间](https://time.geekbang.org/)：大多是付费视频，但质量很高，你得细心挑选适合自己的课程
 
@@ -38,7 +32,7 @@ GitHub 地址：[https://github.com/songjilong/my-collection](https://github.com
 
 - [Process On](https://www.processon.com/)：免费在线作图网站，支持团队实时协作
 
-- [draw.io](http://draw.io/)：作图工具，功能强大（支持 VSCode 插件和电脑版）
+- [draw.io](http://draw.io/)：作图工具，功能强大（支持 VSCode 插件和 PC 端）
 
 - [excalidraw](https://excalidraw.com/)：简洁好看的在线画图工具
 
@@ -125,12 +119,13 @@ GitHub 地址：[https://github.com/songjilong/my-collection](https://github.com
 ---
 
 - [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)：中文文案排版指北
-
 - [document-style-guide](https://github.com/ruanyf/document-style-guide)：中文技术文档的写作规范
-
 - [ResumeSample](https://github.com/geekcompany/ResumeSample)：程序员简历模板系列，PHP、iOS、Android、Java等等
-
 - [programmer-advancement](https://github.com/Snailclimb/programmer-advancement)：程序员应该有的一些好习惯+面试必知事项！
+
+----
+
+- [el-admin](https://el-admin.vip/)：一个简单且易上手的 Spring boot 后台管理框架
 
 # 优质课程
 
@@ -212,6 +207,7 @@ GitHub 地址：[https://github.com/songjilong/my-collection](https://github.com
 
 - 尚硅谷 - 大厂面试题第一季：https://www.bilibili.com/video/BV1xt411S7xy
 - 尚硅谷 - 大厂面试题第二季：https://www.bilibili.com/video/BV1zb411M7NQ
+- 尚硅谷 - 大厂面试题第三季：https://www.bilibili.com/video/BV1Hy4y1B78T
 - CSDN - 2020 最新版面试题（博客）：https://thinkwon.blog.csdn.net/article/details/104390612
 
 ## 推荐几个不错的 UP 主（只列举 IT 相关的）
@@ -293,9 +289,5 @@ GitHub 地址：[https://github.com/songjilong/my-collection](https://github.com
 # 几句鸡汤
 
 - 种一棵树最好的时间是十年前，其次是现在
-
-- 纸上得来终觉浅，绝知此事要躬行
-- 无他，但手熟尔
-- 语言少了，思想就出来了
-- say say easy, do do hard
 - talk is cheap, show me the code
+- 如果你手里有一把锤子，所有东西看上去都像钉子
